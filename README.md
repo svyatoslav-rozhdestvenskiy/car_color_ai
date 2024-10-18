@@ -21,8 +21,8 @@
 Примеры работы программы:
 
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image/image.png)
+![alt text](image/image-1.png)
 
 ## Локальный запуск
 
@@ -39,4 +39,3 @@ pip install -r requirements.txt
 3. Загрузите свои фотографии в [data](./data/)
 
 4. Запустите ноутбук [car_color_ai.ipynb](./car_color_ai.ipynb)
-
